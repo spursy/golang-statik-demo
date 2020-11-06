@@ -1,0 +1,4 @@
+# github.com/rakyll/statik v0.1.7
+## explicit
+github.com/rakyll/statik
+github.com/rakyll/statik/fs
